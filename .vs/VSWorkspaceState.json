@@ -1,0 +1,21 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\sop",
+    "\\src\\main\\java\\com\\sop\\smarthome",
+    "\\src\\main\\java\\com\\sop\\smarthome\\smart_home_core",
+    "\\src\\main\\java\\com\\sop\\smarthome\\smart_home_core\\service",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\sop",
+    "\\src\\test\\java\\com\\sop\\smarthome",
+    "\\src\\test\\java\\com\\sop\\smarthome\\smart_home_core"
+  ],
+  "SelectedNode": "\\settings.gradle",
+  "PreviewInSolutionExplorer": false
+}
